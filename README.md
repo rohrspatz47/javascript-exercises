@@ -2,4 +2,4 @@
 
 Run the tests:
 
-    $ npm test
+    $ npm test# WP01
